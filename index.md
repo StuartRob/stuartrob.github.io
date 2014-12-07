@@ -1,7 +1,14 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
-image:
+title: Change damn you
+tags: 
+  - Jekyll
+  - theme
+  - responsive
+  - blog
+  - template
+image: 
   feature: typewriter.jpg
+published: true
 ---
+
