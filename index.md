@@ -12,3 +12,4 @@ image:
 published: true
 ---
 
+Hannah Bradby has taught in universities in Scotland, England, Sweden and Russia and is currently Professor of Sociology at Uppsala University.
